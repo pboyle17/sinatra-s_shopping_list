@@ -1,3 +1,23 @@
 body {
-  background-color: black;
+  background-color:rgb(52, 55, 54);
+  text-align: center;
+}
+
+.input-box {
+  background :rgb(69, 115, 64);
+  height : 40px;
+  border-radius: 15px;
+  font:rgb(63, 120, 98);
+  display:block;
+  margin:0 auto;
+  font-size:2em;
+}
+
+.button {
+  background:rgb(63, 120, 98);
+  margin:10px;
+  font-size:2em;
+  height:40px;
+  border-radius: 15px;
+
 }

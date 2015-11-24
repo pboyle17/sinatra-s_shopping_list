@@ -1,0 +1,4 @@
+Droplet Name: paulboyle
+      IP Address:  http://162.243.67.74/
+Username: root
+Password: d6d704366f406d91
